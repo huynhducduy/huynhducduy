@@ -1,4 +1,4 @@
-### Hi, I'm Duy 👋 @[huynhducduy.me](https://duyhd.com)
+### Hi, I'm Duy 👋 @[duyhd.com](https://duyhd.com)
 
 [![Twitter: huynhducduy](https://img.shields.io/twitter/follow/huynhducduy?style=social)](https://twitter.com/huynhducduy)
 [![Linkedin: huynhducduy](https://img.shields.io/badge/-huynhducduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huynhducduy/)](https://www.linkedin.com/in/huynhducduy/)
